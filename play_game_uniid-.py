@@ -1,4 +1,4 @@
-from noughtsandcrosses_uniid_2407713 import *
+from noughtsandcrosses_uniid_ import *
 
     
 def main():
